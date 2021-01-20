@@ -95,4 +95,5 @@
         }
     }
 
+    window.ContadorComponent = ContadorComponent;
 })()
